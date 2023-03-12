@@ -22,6 +22,7 @@
 * [TinyFan by Gi7mo](https://github.com/Gi7mo/TinyFan)
 * BTT Smart Filament Sensor
 * [KUSBA ADXL V2.3](https://github.com/xbst/KUSBA)
+* Waveshare 4.3 Inch Touchscreen
 
 ## Mods
 * [Inverted Electronic Bay](https://github.com/Gi7mo/TinyFan)
@@ -30,6 +31,17 @@
 * [Bed Fans](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/CannedBass/Trident_Bed_Fans)
 * [Snap Latches](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020)
 * [Nozzle Scrubber with a Little Bucket](https://www.printables.com/de/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24) + [Nozzle Scrubber arm extension](https://www.printables.com/de/model/298565-nozzle-scrubber-arm-extension-voron-trident)
+* [KAMP -Klipper Adaptive Meshing and Purging](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
+* [WAGO Mount](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/LoganFraser/WagoMounts)
+* [PTFE Bowden Tube Guide and Canbus Wire Support](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Galvanic/Bowden_Tube_Guide)
+* [Angry CAM USB](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chri.kai.in/Angry_CAM_USB)
+* [DIN Clips/Brackets with M3 heat inserts](https://github.com/Ramalama2/Voron-2-Mods/tree/main/DinClips)
+* [Octopus Pro FanCase aka Octoglasses](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Octopus_Pro_FanCase)
 
 ## Config
 * [printer.cfg](/VT.832/Config/printer.cfg)
+* [Adaptive_Mesh.cfg - KAMP](/VT.832/Config/Adaptive_Mesh.cfg)
+* [Adaptive_Purge.cfg - KAMP](/VT.832/Config/Adaptive_Purge.cfg)
+* [KlipperScreen.conf](/VT.832/Config/KlipperScreen.conf)
+* [TinyFan.cfg](/VT.832/Config/TinyFan.cfg)
+* [crowsnest.conf](/VT.832/Config/crowsnest.conf)
