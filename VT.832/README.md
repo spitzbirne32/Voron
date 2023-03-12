@@ -15,11 +15,13 @@ Serial Request post: https://www.reddit.com/r/voroncorexy/comments/zazjmy/voron_
 * 1.8° LDO-42STH48-2504AH AB Motors running on 48V
 * BTT EBB36 V1.2
 * BTT U2C V2.1
+* LGX Lite
 * Mean Well UHP-200-48
 * Mean Well UHP-250-24
 * Rapido Plus UHF (currently only using HF)
 * [TinyFan by Gi7mo](https://github.com/Gi7mo/TinyFan)
 * BTT Smart Filament Sensor
+* [KUSBA ADXL V2.3](https://github.com/xbst/KUSBA)
 
 ## Mods
 * [Inverted Electronic Bay](https://github.com/Gi7mo/TinyFan)
@@ -28,3 +30,6 @@ Serial Request post: https://www.reddit.com/r/voroncorexy/comments/zazjmy/voron_
 * [Bed Fans](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/CannedBass/Trident_Bed_Fans)
 * [Snap Latches](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020)
 * [Nozzle Scrubber with a Little Bucket](https://www.printables.com/de/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24) + [Nozzle Scrubber arm extension](https://www.printables.com/de/model/298565-nozzle-scrubber-arm-extension-voron-trident)
+
+## Config
+* [printer.cfg](/VT.832/Config/printer.cfg)
