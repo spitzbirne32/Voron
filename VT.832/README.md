@@ -1,7 +1,7 @@
 # VT.832
 300x300x300 LDO Kit
 
-Serial Request post: https://www.reddit.com/r/voroncorexy/comments/zazjmy/voron_trident_serial_request_spitzbirne328668/
+[Serial Request post](https://www.reddit.com/r/voroncorexy/comments/zazjmy/voron_trident_serial_request_spitzbirne328668/)
 
 ## Filament used for the printed parts:
 * Primary - eSUN ABS+ Black
