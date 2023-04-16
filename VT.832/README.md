@@ -39,4 +39,5 @@
 * [DIN Clips/Brackets with M3 heat inserts](https://github.com/Ramalama2/Voron-2-Mods/tree/main/DinClips)
 * [Octopus Pro FanCase aka Octoglasses](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Octopus_Pro_FanCase)
 
-## [Config] (https://github.com/spitzbirne32/VT.832) 
+## Config
+https://github.com/spitzbirne32/VT.832) 
