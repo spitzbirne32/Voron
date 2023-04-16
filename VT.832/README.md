@@ -40,4 +40,4 @@
 * [Octopus Pro FanCase aka Octoglasses](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Octopus_Pro_FanCase)
 
 ## Config
-https://github.com/spitzbirne32/VT.832) 
+https://github.com/spitzbirne32/VT.832
