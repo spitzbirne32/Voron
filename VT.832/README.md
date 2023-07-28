@@ -28,7 +28,7 @@
 ## Mods
 * [Inverted Electronic Bay](https://github.com/Gi7mo/TinyFan)
 * [KlickyNG](https://github.com/jlas1/Klicky-Probe/tree/main/Probes/KlickyNG)
-* [Nevermore V5 Duo](https://github.com/nevermore3d/Nevermore_Micro/tree/master/V5_Duo)
+* [Nevermore V6](https://github.com/nevermore3d/Nevermore_Micro/tree/master/V6)
 * [Bed Fans](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/CannedBass/Trident_Bed_Fans)
 * [Snap Latches](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020)
 * [Nozzle Scrubber with a Little Bucket](https://www.printables.com/de/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24) + [Nozzle Scrubber arm extension](https://www.printables.com/de/model/298565-nozzle-scrubber-arm-extension-voron-trident)
