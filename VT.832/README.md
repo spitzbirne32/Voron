@@ -6,7 +6,7 @@
 ## Filament used for the printed parts:
 * Primary - eSUN ABS+ Black
 * Accent - eSUN ABS+ Blue
-* Stealthburner & X-Carriage fully printed in Fiberlogy Nylon PA12+CF15
+* Xol Toolhead & X-Carriage fully printed in Fiberlogy Nylon PA12+CF15
 
 ## Hardware 
 * Octopus Pro V1.0
@@ -18,9 +18,9 @@
 * LGX Lite
 * Mean Well UHP-200-48
 * Mean Well UHP-250-24
-* Rapido Plus UHF (currently only using HF)
+* Dragon UHF with 70W Heater
 * [TinyFan by Gi7mo](https://github.com/Gi7mo/TinyFan)
-* BTT Smart Filament Sensor
+* BTT Smart Filament Sensor V1
 * [KUSBA ADXL V2.3](https://github.com/xbst/KUSBA)
 * Waveshare 4.3 Inch Touchscreen
 * [Disco on a Stick](https://github.com/VoronDesign/Voron-Hardware/tree/master/Daylight/Disco_on_a_stick) 
