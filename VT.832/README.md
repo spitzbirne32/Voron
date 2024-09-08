@@ -27,8 +27,10 @@
 * [TinyFan by Gi7mo](https://github.com/Gi7mo/TinyFan)
 * BTT Smart Filament Sensor V1
 * [KUSBA ADXL V2.3](https://github.com/xbst/KUSBA)
+* Mellow CNC Nozzle ADXL
 * Waveshare 4.3 Inch Touchscreen
-* [Disco on a Stick](https://github.com/VoronDesign/Voron-Hardware/tree/master/Daylight/Disco_on_a_stick) 
+* [Disco on a Stick](https://github.com/VoronDesign/Voron-Hardware/tree/master/Daylight/Disco_on_a_stick)
+
 
 ## Mods
 * [Inverted Electronic Bay](https://github.com/Gi7mo/TinyFan)
