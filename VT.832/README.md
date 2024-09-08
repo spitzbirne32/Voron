@@ -21,6 +21,7 @@
 * Octopus Pro V1.0
 * 2x BTT TMC 5160 Pro for A & B @48V
 * 3x BTT TMC 2209
+* [AluminumG - CNC 6mm](https://github.com/3DPrintingMods/VoronTrident-AluminumG)
 * 1.8° LDO-42STH48-2504AH AB Motors running on 48V
 * Mean Well UHP-200-48
 * Mean Well UHP-250-24
