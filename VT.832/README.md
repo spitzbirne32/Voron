@@ -35,7 +35,6 @@
 
 ## Mods
 * [Inverted Electronic Bay](https://github.com/Gi7mo/TinyFan)
-* [KlickyNG](https://github.com/jlas1/Klicky-Probe/tree/main/Probes/KlickyNG)
 * [Nevermore V6](https://github.com/nevermore3d/Nevermore_Micro/tree/master/V6)
 * [Bed Fans](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/CannedBass/Trident_Bed_Fans)
 * [Snap Latches](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020)
