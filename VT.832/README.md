@@ -37,6 +37,7 @@
 * 1x [Px#*s on a Teststick 5vRGB+24v White](https://alchemy3d.de/de/products/px-s-on-a-teststick-5vrgb-24v-white)
 * 2x Noctua NF-A6x25 PWM - connected to the [TinyFan](https://github.com/Gi7mo/TinyFan)
 * [Octopix](https://github.com/jrlomas/OctoPix)
+* [Kinematic Bed Mount](https://aliexpress.com/item/1005005494918899.html) 
 
 
 ## Mods
