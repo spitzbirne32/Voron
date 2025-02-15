@@ -5,7 +5,7 @@
 ---
 
 ## 🧵 **Filament Used for Printed Parts** *(printed by [PiF](https://pif.voron.dev/))*
-- **Primary:** eSUN ABS+ Black
+- **Primary:** TreeD PC-PBT-GF
 - **Accent:** eSUN ABS+ Peak Green
 
 ---
