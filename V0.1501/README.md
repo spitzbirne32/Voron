@@ -24,9 +24,9 @@
 
 ## 🛠️ **Mods Installed**
 
-- 🔧 [Mini-AfterSherpa with the LGX Lite Mount](https://github.com/PrintersForAnts/Mini-AfterSherpa/tree/main/mods/LGXLiteMount)
+- 🔧 [Yavoth](https://github.com/chirpy2605/voron/tree/main/V0/Yavoth)
 - 🛏️ [Kirigami Bed](https://github.com/christophmuellerorg/voron_0_kirigami_bed)
-- 🌬️ [Nevermore V4](https://github.com/nevermore3d/Nevermore_Micro/tree/master/V4)
+- 🌬️ [Nevermore V6](https://github.com/nevermore3d/Nevermore_Micro/tree/master/V6)
 - 🪟 [Zero Panels](https://github.com/zruncho3d/ZeroPanels)
 
 ---
