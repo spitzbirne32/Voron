@@ -1,7 +1,7 @@
 # **Voron Printers**
 
-- **[VT.832](/VT.832)** – Custom Voron Trident (300x300x300mm) with high-end components and mods.
-- **[V0.1501](/V0.1501)** – Compact Voron 0.2 with selected upgrades for top performance.
+- **[VT.832](https://github.com/spitzbirne32/VT.832_2.0)** – Voron Trident (300x300x300mm)
+- **[V0.1501](/V0.1501)** – Voron 0.2
 
 ---
 
